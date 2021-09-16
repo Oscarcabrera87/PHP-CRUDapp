@@ -12,7 +12,7 @@ session_start();
 
 	<head>
 		<meta charset = "utf-8">
-		<title>Jared Best | Resume Registry</title>
+		<title>Oscar Cabrera | Resume Registry</title>
 		<?php require_once "head.php" ?>
 	</head>
 
